@@ -1,6 +1,11 @@
 # danmuplayer
 video danmu  play for HTML
 
+
+DEMO:http://acfun.info/video/video.html
+
+
+
 播放
 
 
