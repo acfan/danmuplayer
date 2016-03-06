@@ -4,6 +4,8 @@ video danmu  play for HTML
 
 DEMO:http://acfun.info/video/video.html
 
+计划添加：不显示弹幕 
+
 
 
 播放
