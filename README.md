@@ -68,3 +68,6 @@ color:color, //颜色
 style:style, //形式
 
 time:time  //此time为发送弹幕的时间ajax函数里面已经写好
+
+
+下一版本要向bilibili看齐
